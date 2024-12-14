@@ -8134,5 +8134,29 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 01:01:48 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2024-12-14 01:12:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2024-12-14 01:08:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-14 01:10:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
